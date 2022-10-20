@@ -63,7 +63,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy
 global.owner = ['94742944882'] //ur number 
 global.ownertag = '94742944882' //ur tag number
-global.botname = '📶 Rajitha roshan 📶' //ur bot name
+global.botname = '📶 Rajitha Roshan 📶' //ur bot name
 global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
